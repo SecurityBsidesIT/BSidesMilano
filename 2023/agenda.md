@@ -6,7 +6,7 @@ Website: [SecurityBSides Milano](https://milano.securitybsides.it)
 
 [RECORDING LIVE STREAM](https://www.twitch.tv/securitycert/videos)
 
-[YOUTYBE Playlist](https://www.youtube.com/playlist?list=PLPc5glBiLyN7L9ihZ4JNz2G9vwS4mO2ts)
+[YOUTUBE Playlist](https://www.youtube.com/playlist?list=PLPc5glBiLyN7L9ihZ4JNz2G9vwS4mO2ts)
 
 Agenda
 ------------
@@ -22,7 +22,7 @@ Hacking Serverless Applications: A Treasure Map for Uncharted Waters
 
 Serverless technology eliminates the need for development teams to provision servers, and it also results in some security threats being passed to the cloud provider. This frees up developers to concentrate on building logic and producing value quickly. But cloud functions still execute code. If the software is written poorly, it can lead to a cloud disaster. While Serverless code contains a mixture of cloud configurations and application programming interfaces (API) calls, legacy security solutions lack the context that is necessary in a serverless environment, and the consequence is a lack of observability and slower response times. This means that the security teams struggle to keep up with the speed of development and the security is left behind. Attackers, on the other-hand, take advantage of these uncharted waters to exploit serverless environments in the wild. In most cases we don't even hear about it because no one knows before something really bad happens. In this talk, we will discuss common risks and challenges in serverless environments as well as new attack vectors and common techniques attackers use to exploit Serverless applications. Finally, we will demonstrate how attackers can exploit newly discovered CVEs to target Serverless applications without being noticed.
 
-[PDF]()
+[PDF](PDF/Hacking_Serveless_Application.pdf)
 
 [VIDEO](https://www.youtube.com/watch?v=szKZ4zaNeaM)
 
@@ -76,7 +76,7 @@ Pwning into Power System Application
 
 Power system application is core of the entire power station eco-system. With this application anyone (with desired access) can modify stations parameters, can add station, can shut down stations or power itself etc. With this application we can control devices connected, automated baseline monitoring, remote access control, and automatic scheduled password changes, ultimately entire device management for most of the Scada. What if this application gets pwned? What if the application has bunch of vulnerabilities? What if attacker gets hold on the application and can shut down power stations? What if attacker can mess with the sub-stations and devices? We�re going to talk about � how attacker can intrude into environment and mainly pwn the power system application which ultimately will lead to take control of the devices, stations, entire power system etc. We�re going to discuss about our recent Red Team engagement in which we�ve hacked into the power system application and were able to do plenty of malicious activities. We�ll talk about several vulnerabilities which we found in one of the well-known Power System Application and they�ve compatibility with almost every manufacture and this is used in various SCADA organizations to connect the OT devices, centralized monitoring, management / administration of OT platforms. Final notes, we�ll talk about industry standard best practices, approach towards having zero trust and defense in depth
 
-[PDF]()
+[PDF](PDF/Pwning_Power_System.pdf)
 
 [VIDEO](https://www.youtube.com/watch?v=PS8bSRzu6uk)
 
