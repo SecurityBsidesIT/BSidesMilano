@@ -32,6 +32,7 @@ GraphQL Security Vulnerabilities in the wild
 **Antoine Carossio**
 
 This groundbreaking research, involving a scan of over 1500 GraphQL endpoints, revealed a staggering 46,000+ security issues and sensitive data leaks, all accessible without authentication and with 10% classified as critical. In this session, Tristan and Antoine will share their unique testing methodology and delve into the most common GraphQL vulnerabilities unearthed during their research. They'll expose GraphQL-specific vulnerabilities, including complexity issues and schema leaks, alongside persistent standard API security threats like injections and server errors. They'll also highlight the often-underestimated problem of data leaks, including sensitive personal information and tokens. But, they won't leave you in the trenches; they'll showcase practical remediation strategies, introducing tools like GraphQL Armor and a handy security checklist for developers. This talk isn't just about raising alarms; it's about equipping you with the tools to secure your GraphQL applications. Leave with a newfound understanding of GraphQL's security landscape, a respect for its potential vulnerabilities, and a clear path to application safety.
+
 [PDF](PDF/GraphQL_Vulnerabilities.pdf)
 
 [VIDEO]()
