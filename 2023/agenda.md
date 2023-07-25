@@ -6,6 +6,8 @@ Website: [SecurityBSides Milano](https://milano.securitybsides.it)
 
 [RECORDING LIVE STREAM](https://www.twitch.tv/securitycert/videos)
 
+[YOUTYBE Playlist](https://www.youtube.com/playlist?list=PLPc5glBiLyN7L9ihZ4JNz2G9vwS4mO2ts)
+
 Agenda
 ------------
 
@@ -22,7 +24,7 @@ Serverless technology eliminates the need for development teams to provision ser
 
 [PDF]()
 
-[VIDEO]()
+[VIDEO](https://www.youtube.com/watch?v=szKZ4zaNeaM)
 
 
 11:10-12:00 Sala 1 
@@ -35,7 +37,7 @@ This groundbreaking research, involving a scan of over 1500 GraphQL endpoints, r
 
 [PDF](PDF/GraphQL_Vulnerabilities.pdf)
 
-[VIDEO]()
+[VIDEO](https://www.youtube.com/watch?v=zPOQRpXOg80)
 
 12:00-12:50 Sala 1 
 
@@ -52,7 +54,7 @@ The speech talks about a lengthy investigation, which took a few months, in resp
 
 [PDF](PDF/Facing_the_Persian_Thief.pdf)
 
-[VIDEO]()
+[VIDEO](https://www.youtube.com/watch?v=92FvxY-FOgc)
 
 14:00-14:50 Sala 1 
 
@@ -64,7 +66,7 @@ This Presentation relates to the classification of HTTP request data using machi
 
 [PDF](PDF/ML_Classification_%20Marvelous_Universe_of_Models.pdf)
 
-[VIDEO]()
+[VIDEO](https://www.youtube.com/watch?v=EHCD6ddMOJc)
 
 15:00-15:50 Sala 1 
 
@@ -76,7 +78,7 @@ Power system application is core of the entire power station eco-system. With th
 
 [PDF]()
 
-[VIDEO]()
+[VIDEO](https://www.youtube.com/watch?v=PS8bSRzu6uk)
 
 16:00-16:50 Sala 1 
 
